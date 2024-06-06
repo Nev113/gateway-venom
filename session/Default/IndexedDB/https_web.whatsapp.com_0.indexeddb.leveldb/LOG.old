@@ -1,3 +1,23 @@
-2024/06/06-09:01:58.387 c05a Reusing MANIFEST /home/user/gateway-venom/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/06-09:01:58.387 c05a Recovering log #226
-2024/06/06-09:01:58.388 c05a Reusing old log /home/user/gateway-venom/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000226.log 
+2024/06/06-15:17:41.065 280 Reusing MANIFEST /home/user/gateway-venom/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/06-15:17:41.066 280 Recovering log #235
+2024/06/06-15:17:41.225 280 Reusing old log /home/user/gateway-venom/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000235.log 
+2024/06/06-15:17:44.651 281 Level-0 table #245: started
+2024/06/06-15:17:44.763 281 Level-0 table #245: 838670 bytes OK
+2024/06/06-15:17:44.770 281 Delete type=0 #235
+2024/06/06-15:17:44.779 281 Manual compaction at level-0 from '\x00#\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/06-15:17:48.292 281 Compacting 1@1 + 6@2 files
+2024/06/06-15:17:48.586 281 Generated table #246@1: 27735 keys, 2189639 bytes
+2024/06/06-15:17:48.791 281 Generated table #247@1: 6445 keys, 2127522 bytes
+2024/06/06-15:17:49.127 281 Generated table #248@1: 48720 keys, 2177450 bytes
+2024/06/06-15:17:49.727 281 Generated table #249@1: 122695 keys, 2280983 bytes
+2024/06/06-15:17:50.270 281 Generated table #250@1: 123503 keys, 2280950 bytes
+2024/06/06-15:17:50.434 281 Generated table #251@1: 29733 keys, 556948 bytes
+2024/06/06-15:17:50.435 281 Compacted 1@1 + 6@2 files => 11613492 bytes
+2024/06/06-15:17:50.438 281 compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/06/06-15:17:50.439 281 Delete type=2 #245
+2024/06/06-15:17:50.439 281 Delete type=2 #240
+2024/06/06-15:17:50.439 281 Delete type=2 #242
+2024/06/06-15:17:50.440 281 Delete type=2 #241
+2024/06/06-15:17:50.440 281 Delete type=2 #237
+2024/06/06-15:17:50.441 281 Delete type=2 #238
+2024/06/06-15:17:50.441 281 Delete type=2 #239

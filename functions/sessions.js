@@ -46,6 +46,7 @@ return wconnect
         '--disable-accelerated-2d-canvas',
         '--disable-gpu'
     ],
+    product: "firefox",
     protocolTimeout: 160000 // Set timeout to 60 seconds
 },
 })
