@@ -19,7 +19,7 @@ function installChromeBrowser(prm) {
   });
 }
 let client;
-installChromeBrowser('npx puppeteer browsers install chrome').then(() => {
+installChromeBrowser('npx puppeteer browsers install firefox').then(() => {
   installChromeBrowser('sudo apt-get install libatk1.0-0')
 installChromeBrowser('sudo apt-get install libatk1.0-dev').then(() => console.log('success'))
   console.log('Chrome browser installed successfully.');
