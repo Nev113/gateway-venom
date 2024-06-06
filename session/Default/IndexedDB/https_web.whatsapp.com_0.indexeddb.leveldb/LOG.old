@@ -1,3 +1,23 @@
-2024/06/06-08:18:36.116 851a Reusing MANIFEST /home/user/gateway-venom/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/06-08:18:36.116 851a Recovering log #199
-2024/06/06-08:18:36.196 851a Reusing old log /home/user/gateway-venom/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000199.log 
+2024/06/06-08:18:40.450 85c3 Reusing MANIFEST /home/user/gateway-venom/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/06-08:18:40.451 85c3 Recovering log #199
+2024/06/06-08:18:40.533 85c3 Reusing old log /home/user/gateway-venom/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000199.log 
+2024/06/06-08:18:44.209 85c3 Level-0 table #209: started
+2024/06/06-08:18:44.226 85c3 Level-0 table #209: 190202 bytes OK
+2024/06/06-08:18:44.233 85c3 Delete type=0 #199
+2024/06/06-08:18:44.238 85d0 Manual compaction at level-0 from '\x00\x1f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/06-08:18:47.476 85c3 Compacting 1@1 + 6@2 files
+2024/06/06-08:18:47.719 85c3 Generated table #210@1: 21056 keys, 2159014 bytes
+2024/06/06-08:18:47.849 85c3 Generated table #211@1: 6467 keys, 2130381 bytes
+2024/06/06-08:18:48.306 85c3 Generated table #212@1: 60023 keys, 2193030 bytes
+2024/06/06-08:18:48.906 85c3 Generated table #213@1: 122848 keys, 2280680 bytes
+2024/06/06-08:18:49.718 85c3 Generated table #214@1: 123641 keys, 2281023 bytes
+2024/06/06-08:18:49.823 85c3 Generated table #215@1: 18074 keys, 341260 bytes
+2024/06/06-08:18:49.823 85c3 Compacted 1@1 + 6@2 files => 11385388 bytes
+2024/06/06-08:18:49.825 85c3 compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/06/06-08:18:49.826 85c3 Delete type=2 #201
+2024/06/06-08:18:49.826 85c3 Delete type=2 #205
+2024/06/06-08:18:49.826 85c3 Delete type=2 #206
+2024/06/06-08:18:49.826 85c3 Delete type=2 #204
+2024/06/06-08:18:49.826 85c3 Delete type=2 #209
+2024/06/06-08:18:49.827 85c3 Delete type=2 #203
+2024/06/06-08:18:49.827 85c3 Delete type=2 #202

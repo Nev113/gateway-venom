@@ -19,6 +19,12 @@ function installChromeBrowser() {
   });
 }
 
+installChromeBrowser().then(() => {
+  console.log('Chrome browser installed successfully.');
+}).catch((error) => {
+  console.error('Error installing Chrome browser:', error);
+});
+
 const app = express();
 const sessionPath = path.join(__dirname, 'tokens', "client1");
 const lockFilePath = path.join(sessionPath, 'SingletonLock');

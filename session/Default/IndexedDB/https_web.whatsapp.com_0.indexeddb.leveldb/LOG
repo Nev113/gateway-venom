@@ -1,3 +1,3 @@
-2024/06/06-08:18:40.450 85c3 Reusing MANIFEST /home/user/gateway-venom/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/06-08:18:40.451 85c3 Recovering log #199
-2024/06/06-08:18:40.533 85c3 Reusing old log /home/user/gateway-venom/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000199.log 
+2024/06/06-08:41:52.885 ac7b Reusing MANIFEST /home/user/gateway-venom/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/06-08:41:52.887 ac7b Recovering log #208
+2024/06/06-08:41:53.038 ac7b Reusing old log /home/user/gateway-venom/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000208.log 

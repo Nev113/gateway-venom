@@ -1,3 +1,3 @@
-2024/06/06-08:18:39.330 85c3 Reusing MANIFEST /home/user/gateway-venom/session/Default/shared_proto_db/metadata/MANIFEST-000001
-2024/06/06-08:18:39.330 85c3 Recovering log #3
-2024/06/06-08:18:39.331 85c3 Reusing old log /home/user/gateway-venom/session/Default/shared_proto_db/metadata/000003.log 
+2024/06/06-08:41:51.352 ac7b Reusing MANIFEST /home/user/gateway-venom/session/Default/shared_proto_db/metadata/MANIFEST-000001
+2024/06/06-08:41:51.352 ac7b Recovering log #3
+2024/06/06-08:41:51.352 ac7b Reusing old log /home/user/gateway-venom/session/Default/shared_proto_db/metadata/000003.log 
