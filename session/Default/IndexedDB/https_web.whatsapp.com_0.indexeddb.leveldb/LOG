@@ -1,43 +1,23 @@
-2024/06/06-08:00:04.334 63fa Reusing MANIFEST /home/user/gateway-venom/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/06-08:00:04.335 63fa Recovering log #173
-2024/06/06-08:00:04.362 63fa Reusing old log /home/user/gateway-venom/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000173.log 
-2024/06/06-08:00:07.749 63fd Level-0 table #183: started
-2024/06/06-08:00:07.758 63fd Level-0 table #183: 120004 bytes OK
-2024/06/06-08:00:07.761 63fd Delete type=0 #173
-2024/06/06-08:00:07.762 63fd Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/06/06-08:00:11.028 63fa Compacting 1@1 + 6@2 files
-2024/06/06-08:00:11.206 63fa Generated table #184@1: 17825 keys, 2153820 bytes
-2024/06/06-08:00:11.312 63fa Generated table #185@1: 6436 keys, 2128526 bytes
-2024/06/06-08:00:11.743 63fa Generated table #186@1: 66735 keys, 2203368 bytes
-2024/06/06-08:00:12.572 63fa Generated table #187@1: 122874 keys, 2281023 bytes
-2024/06/06-08:00:13.236 63fa Generated table #188@1: 123303 keys, 2281369 bytes
-2024/06/06-08:00:13.315 63fa Generated table #189@1: 11491 keys, 220281 bytes
-2024/06/06-08:00:13.316 63fa Compacted 1@1 + 6@2 files => 11268387 bytes
-2024/06/06-08:00:13.322 63fa compacted to: files[ 0 0 6 0 0 0 0 ]
-2024/06/06-08:00:13.323 63fa Delete type=2 #179
-2024/06/06-08:00:13.323 63fa Delete type=2 #177
-2024/06/06-08:00:13.324 63fa Delete type=2 #178
-2024/06/06-08:00:13.324 63fa Delete type=2 #183
-2024/06/06-08:00:13.324 63fa Delete type=2 #180
-2024/06/06-08:00:13.325 63fa Delete type=2 #175
-2024/06/06-08:00:13.325 63fa Delete type=2 #176
-2024/06/06-08:05:14.953 63fa Level-0 table #191: started
-2024/06/06-08:05:14.985 63fa Level-0 table #191: 188634 bytes OK
-2024/06/06-08:05:14.990 63fa Delete type=0 #182
-2024/06/06-08:05:14.991 63fd Manual compaction at level-0 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/06/06-08:05:22.099 63fb Compacting 1@1 + 6@2 files
-2024/06/06-08:05:22.174 63fb Generated table #192@1: 18932 keys, 2155811 bytes
-2024/06/06-08:05:22.249 63fb Generated table #193@1: 6453 keys, 2132631 bytes
-2024/06/06-08:05:22.584 63fb Generated table #194@1: 64756 keys, 2200340 bytes
-2024/06/06-08:05:22.921 63fb Generated table #195@1: 123158 keys, 2281117 bytes
-2024/06/06-08:05:23.448 63fb Generated table #196@1: 123489 keys, 2281515 bytes
-2024/06/06-08:05:23.509 63fb Generated table #197@1: 13066 keys, 247253 bytes
-2024/06/06-08:05:23.510 63fb Compacted 1@1 + 6@2 files => 11298667 bytes
-2024/06/06-08:05:23.514 63fb compacted to: files[ 0 0 6 0 0 0 0 ]
-2024/06/06-08:05:23.515 63fb Delete type=2 #191
-2024/06/06-08:05:23.516 63fb Delete type=2 #188
-2024/06/06-08:05:23.516 63fb Delete type=2 #187
-2024/06/06-08:05:23.517 63fb Delete type=2 #184
-2024/06/06-08:05:23.518 63fb Delete type=2 #185
-2024/06/06-08:05:23.518 63fb Delete type=2 #189
-2024/06/06-08:05:23.519 63fb Delete type=2 #186
+2024/06/06-08:15:59.903 7ee6 Reusing MANIFEST /home/user/gateway-venom/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/06-08:15:59.908 7ee6 Recovering log #190
+2024/06/06-08:15:59.934 7ee6 Reusing old log /home/user/gateway-venom/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000190.log 
+2024/06/06-08:16:03.488 7ee6 Level-0 table #200: started
+2024/06/06-08:16:03.507 7ee6 Level-0 table #200: 104850 bytes OK
+2024/06/06-08:16:03.510 7ee6 Delete type=0 #190
+2024/06/06-08:16:03.511 7ee6 Manual compaction at level-0 from '\x00\x1e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/06-08:16:06.893 7ee6 Compacting 1@1 + 6@2 files
+2024/06/06-08:16:07.132 7ee6 Generated table #201@1: 19658 keys, 2157802 bytes
+2024/06/06-08:16:07.404 7ee6 Generated table #202@1: 6452 keys, 2130011 bytes
+2024/06/06-08:16:07.801 7ee6 Generated table #203@1: 63096 keys, 2196154 bytes
+2024/06/06-08:16:08.443 7ee6 Generated table #204@1: 122854 keys, 2279338 bytes
+2024/06/06-08:16:09.209 7ee6 Generated table #205@1: 123639 keys, 2280799 bytes
+2024/06/06-08:16:09.267 7ee6 Generated table #206@1: 14886 keys, 281519 bytes
+2024/06/06-08:16:09.268 7ee6 Compacted 1@1 + 6@2 files => 11325623 bytes
+2024/06/06-08:16:09.275 7ee6 compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/06/06-08:16:09.276 7ee6 Delete type=2 #196
+2024/06/06-08:16:09.276 7ee6 Delete type=2 #193
+2024/06/06-08:16:09.277 7ee6 Delete type=2 #200
+2024/06/06-08:16:09.277 7ee6 Delete type=2 #194
+2024/06/06-08:16:09.278 7ee6 Delete type=2 #195
+2024/06/06-08:16:09.281 7ee6 Delete type=2 #192
+2024/06/06-08:16:09.282 7ee6 Delete type=2 #197

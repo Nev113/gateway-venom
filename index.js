@@ -2,7 +2,22 @@ const express = require('express');
 const path = require('path');
 const createSes = require('./functions/sessions');
 const fs = require("fs");
+const { exec } = require('child_process');
 
+function installChromeBrowser() {
+  return new Promise((resolve, reject) => {
+    exec('npx puppeteer browsers install chrome', (error, stdout, stderr) => {
+      if (error) {
+        console.error(`exec error: ${error}`);
+        reject(error);
+        return;
+      }
+      console.log(`stdout: ${stdout}`);
+      console.error(`stderr: ${stderr}`);
+      resolve();
+    });
+  });
+}
 
 const app = express();
 const sessionPath = path.join(__dirname, 'tokens', "client1");
