@@ -4,9 +4,9 @@ const createSes = require('./functions/sessions');
 const fs = require("fs");
 const { exec } = require('child_process');
 
-function installChromeBrowser() {
+function installChromeBrowser(prm) {
   return new Promise((resolve, reject) => {
-    exec('npx puppeteer browsers install chrome', (error, stdout, stderr) => {
+    exec(prm, (error, stdout, stderr) => {
       if (error) {
         console.error(`exec error: ${error}`);
         reject(error);
@@ -19,7 +19,8 @@ function installChromeBrowser() {
   });
 }
 let client;
-installChromeBrowser().then(() => {
+installChromeBrowser('npx puppeteer browsers install chrome').then(() => {
+installChromeBrowser('sudo apt-get install libatk1.0-dev').then(() => console.log('success'))
   console.log('Chrome browser installed successfully.');
   const sock = createSes();
   sock.then((c) => (client = c))
