@@ -1,0 +1,3 @@
+2024/06/06-07:30:06.355 3676 Reusing MANIFEST /home/user/gateway-venom/tokens/client1/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/06/06-07:30:06.357 3676 Recovering log #3
+2024/06/06-07:30:06.357 3676 Reusing old log /home/user/gateway-venom/tokens/client1/Default/Sync Data/LevelDB/000003.log 
