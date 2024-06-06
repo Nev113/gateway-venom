@@ -18,9 +18,11 @@ function installChromeBrowser() {
     });
   });
 }
-
+let client;
 installChromeBrowser().then(() => {
   console.log('Chrome browser installed successfully.');
+  const sock = createSes();
+  sock.then((c) => (client = c))
 }).catch((error) => {
   console.error('Error installing Chrome browser:', error);
 });
@@ -32,11 +34,6 @@ if (fs.existsSync(lockFilePath)) {
     fs.rm(lockFilePath);
     console.log("Deleted...")
 }
-
-const sock = createSes();
-let client;
-sock.then((c) => (client = c))
-if (sock) console.log(sock)
 
 
 const port = parseInt(process.env.PORT) || process.argv[3] || 8080;

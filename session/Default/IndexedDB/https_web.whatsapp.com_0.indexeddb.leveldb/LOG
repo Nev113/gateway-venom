@@ -1,3 +1,39 @@
-2024/06/06-08:41:52.885 ac7b Reusing MANIFEST /home/user/gateway-venom/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/06-08:41:52.887 ac7b Recovering log #208
-2024/06/06-08:41:53.038 ac7b Reusing old log /home/user/gateway-venom/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000208.log 
+2024/06/06-09:02:07.659 c13e Reusing MANIFEST /home/user/gateway-venom/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/06-09:02:07.660 c13e Recovering log #226
+2024/06/06-09:02:07.660 c13e Reusing old log /home/user/gateway-venom/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000226.log 
+2024/06/06-09:02:08.852 c13e Compacting 1@1 + 6@2 files
+2024/06/06-09:02:09.076 c13e Generated table #229@1: 24563 keys, 2176697 bytes
+2024/06/06-09:02:09.277 c13e Generated table #230@1: 6448 keys, 2131995 bytes
+2024/06/06-09:02:09.690 c13e Generated table #231@1: 53257 keys, 2182728 bytes
+2024/06/06-09:02:10.197 c13e Generated table #232@1: 122817 keys, 2279597 bytes
+2024/06/06-09:02:10.549 c13e Generated table #233@1: 123364 keys, 2280447 bytes
+2024/06/06-09:02:10.608 c13e Generated table #234@1: 25198 keys, 471467 bytes
+2024/06/06-09:02:10.608 c13e Compacted 1@1 + 6@2 files => 11522931 bytes
+2024/06/06-09:02:10.610 c13e compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/06/06-09:02:10.611 c13e Delete type=2 #222
+2024/06/06-09:02:10.611 c13e Delete type=2 #219
+2024/06/06-09:02:10.611 c13e Delete type=2 #224
+2024/06/06-09:02:10.611 c13e Delete type=2 #227
+2024/06/06-09:02:10.611 c13e Delete type=2 #221
+2024/06/06-09:02:10.612 c13e Delete type=2 #223
+2024/06/06-09:02:10.612 c13e Delete type=2 #220
+2024/06/06-09:02:12.067 c145 Level-0 table #236: started
+2024/06/06-09:02:12.071 c145 Level-0 table #236: 18088 bytes OK
+2024/06/06-09:02:12.075 c145 Delete type=0 #226
+2024/06/06-09:02:12.076 c13d Manual compaction at level-0 from '\x00"\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00#\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/06-09:02:14.920 c13d Compacting 1@1 + 6@2 files
+2024/06/06-09:02:15.212 c13d Generated table #237@1: 24679 keys, 2183797 bytes
+2024/06/06-09:02:15.417 c13d Generated table #238@1: 6448 keys, 2131995 bytes
+2024/06/06-09:02:15.731 c13d Generated table #239@1: 53257 keys, 2182728 bytes
+2024/06/06-09:02:16.291 c13d Generated table #240@1: 122817 keys, 2279597 bytes
+2024/06/06-09:02:16.770 c13d Generated table #241@1: 123364 keys, 2280447 bytes
+2024/06/06-09:02:16.908 c13d Generated table #242@1: 25198 keys, 471467 bytes
+2024/06/06-09:02:16.908 c13d Compacted 1@1 + 6@2 files => 11530031 bytes
+2024/06/06-09:02:16.910 c13d compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/06/06-09:02:16.911 c13d Delete type=2 #231
+2024/06/06-09:02:16.911 c13d Delete type=2 #233
+2024/06/06-09:02:16.911 c13d Delete type=2 #234
+2024/06/06-09:02:16.912 c13d Delete type=2 #230
+2024/06/06-09:02:16.912 c13d Delete type=2 #229
+2024/06/06-09:02:16.912 c13d Delete type=2 #236
+2024/06/06-09:02:16.912 c13d Delete type=2 #232
