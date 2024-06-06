@@ -21,6 +21,7 @@ function createSes() {
     const sessionPath = './session';
 return wconnect
 .create({
+  headless: true,
   session: 'client1',
   statusFind: (statusSession, session) => {
     if (statusSession === 'serverClose') {
